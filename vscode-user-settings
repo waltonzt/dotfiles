@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "editor.fontSize": 11,
+    "files.autoSave": "onWindowChange",
+    "editor.renderWhitespace": "boundary",
+    "editor.renderControlCharacters": true,
+    "editor.rulers": [120],
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-11-openjdk-amd64/bin/java",
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.fontFamily": "SauceCodePro Nerd Font"
+}
