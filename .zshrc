@@ -38,7 +38,7 @@ alias dxdelete="sfdx force:org:delete -u"
 alias dxstatus="sfdx force:source:status"
 alias dxopen="sfdx force:org:open"
 alias dxperm="sfdx force:user:permset:assign -n"
-alias runapex="sfdx force:apex:test:run --resultformat human"
+alias runtests="sfdx force:apex:test:run --resultformat human"
 
 # Tilix fix
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
