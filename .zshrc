@@ -39,6 +39,7 @@ alias dxstatus="sfdx force:source:status"
 alias dxopen="sfdx force:org:open"
 alias dxperm="sfdx force:user:permset:assign -n"
 alias runtests="sfdx force:apex:test:run --resultformat human"
+alias loaddata="sfdx force:data:tree:import --plan data/sample/sample-data-plan.json"
 
 # Tilix fix
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
